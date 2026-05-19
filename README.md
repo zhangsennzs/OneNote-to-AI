@@ -3,7 +3,7 @@
 
 ---
 
-## 一句话简介
+## 简介
 
 ```
 在 Cursor / Claude 等 AI 工具中通过 MCP 读写 Microsoft OneNote，无需 Azure 注册，支持 Token 自动续期。含中文教程。
@@ -17,7 +17,7 @@ Connect Microsoft OneNote to Cursor & MCP clients. No Azure signup. Browser auth
 
 ---
 
-## 完整项目描述（用于 README 开头 / 项目介绍页）
+## 项目描述
 
 ### 项目名称
 
